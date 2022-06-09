@@ -1,0 +1,2 @@
+g++ {LM,BaseMI,MI}.{h,cpp} MIDemo.cpp -o MIDemo
+./MIDemo 
